@@ -2,11 +2,10 @@
 # Pildora para coders : ANGULAR JS
 This is a sample of Angular APP to be introduced to the F5 Peñascal Bootcamp's peers.
 
-- [x] Presentación y ejemplo de AngularJS para el Bootcamp de Peñascal 22-23
+# Presentación y ejemplo de AngularJS para el Bootcamp de Peñascal 22-23
 - [x] Intro y paradigma declarativo
 - [x] Patrones de Diseño
 - [x] Conceptos básicos en AngularJS
-    -[x] 
 - [x] Instalación en VS Code + NodeJS: => npm
 # Instaling 
  npm i -g npm@latest
