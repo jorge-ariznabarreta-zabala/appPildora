@@ -1,7 +1,7 @@
 
 # Pildora para coders : ANGULAR JS
-This is a sample of Angular APP to be introduced to the F5 Peñascal Bootcamp's peers.
-https://github.com/jorge-ariznabarreta-zabala/appPildora
+- This is a sample of Angular APP to be introduced to the F5 Peñascal Bootcamp's peers.
+- https://github.com/jorge-ariznabarreta-zabala/appPildora
 
 # Presentación y ejemplo de AngularJS para el Bootcamp de Peñascal 22-23
 - [x] Intro y paradigma declarativo
@@ -9,37 +9,37 @@ https://github.com/jorge-ariznabarreta-zabala/appPildora
 - [x] Conceptos básicos en AngularJS
 - [x] Instalación en VS Code + NodeJS: => npm
 # Instaling 
- npm i -g npm@latest
- npm cache clean --force
+ - npm i -g npm@latest
+ - npm cache clean --force
  
- npm uninstall -g angular-cli
- npm uninstall -g @angular/cli
+ - npm uninstall -g angular-cli
+ - npm uninstall -g @angular/cli
  
- npm cache clean --force
+ - npm cache clean --force
  
- npm install -g @angular/cli
- Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+ - npm install -g @angular/cli
+ - Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
  
- ng new my-app --style=sass
- npm install --save bootstrap => This will install Bootstrap in your app
+ - ng new my-app --style=sass
+ - npm install --save bootstrap => This will install Bootstrap in your app
  
-cd my-app
-ng serve --open
+- cd my-app
+- ng serve --open
  
  http://localhost:4200/
  
  # Converting a Current App to Sass
  ng set defaults.styleExt scss
  # Learn more
- https://www.digitalocean.com/community/tutorials/using-sass-with-the-angular-cli
- https://platzi.com/blog/react-angular-vue-svelte/
- https://www.openinnova.es/angular-vs-react-vs-vue-espanol-cual-elegir/
- https://www.hiberus.com/crecemos-contigo/angular-vs-react-vs-vue/
- https://angular.io/guide/architecture
- https://angular.io/cli
- https://angular.io/guide/file-structure
- https://guiadev.com/introduccion-angular-js/
- https://www.youtube.com/playlist?list=PL_WGMLcL4jzVY1y-SutA3N_PCNCAG7Y46
+ - https://www.digitalocean.com/community/tutorials/using-sass-with-the-angular-cli
+ - https://platzi.com/blog/react-angular-vue-svelte/
+ - https://www.openinnova.es/angular-vs-react-vs-vue-espanol-cual-elegir/
+ - https://www.hiberus.com/crecemos-contigo/angular-vs-react-vs-vue/
+ - https://angular.io/guide/architecture
+ - https://angular.io/cli
+ - https://angular.io/guide/file-structure
+ - https://guiadev.com/introduccion-angular-js/
+ - https://www.youtube.com/playlist?list=PL_WGMLcL4jzVY1y-SutA3N_PCNCAG7Y46
 
  
 ## Development server
